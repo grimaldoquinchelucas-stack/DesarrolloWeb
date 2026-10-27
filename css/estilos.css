@@ -1,0 +1,35 @@
+header{
+	background-color: #f9fafb;
+}
+
+.typ{
+	font-family: "Courgette", cursive;
+}
+
+.parr{
+	text-align: center;
+}
+
+footer{
+	text-align: center;
+	color: white;
+	background-color: #da7b10;
+	background-image: url("../img/Textura.png");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+h1,h2,h4{
+	font-family: "Courgette", cursive;
+	text-align: center;
+}
+
+.pro{
+	margin-bottom: 1%;
+}
+
+.for{
+	padding: 4%;
+}
